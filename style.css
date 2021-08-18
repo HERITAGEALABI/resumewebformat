@@ -139,7 +139,7 @@ footer{
 }
 .footer-image img{
    max-width: 100%;
-width: 75px;
+width: 125px;
 }
 }
 @media screen and (max-width: 768px) {
@@ -183,7 +183,7 @@ footer{
 }
 .footer-image img{
    max-width: 100%;
-width: 75px;
+width: 125px;
 }
 }
     @media screen and (max-width: 411px) {
@@ -227,6 +227,6 @@ width: 75px;
     }
     .footer-image img{
        max-width: 100%;
-    width: 75px;
+    width: 125px;
     }
     }
