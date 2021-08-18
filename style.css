@@ -98,9 +98,9 @@ margin-right: auto;
 
 
 @media screen and (max-width: 962px){
-/* main{
-    padding: 30px;
-} */
+main{
+   width: 100%;
+}
 .content h1 img{
     max-width: 100%;
     width: 25px;
@@ -112,10 +112,10 @@ margin-right: auto;
     display: none;
 }
 .section-two{
-    width: 85%;
-    margin-left:auto;
-    margin-right: auto;
-    padding: 10px;
+    width: 85vw;
+    /* margin-left:auto;
+    margin-right: auto; */
+    padding: 6px;
   
 }
 .section-two h2{
@@ -140,9 +140,9 @@ width: 75px;
 }
 }
 @media screen and (max-width: 768px) {
-    /* main{
-        padding: 30px;
-    } */
+    main{
+      width: 100%;
+    }
     .content h1 img{
         max-width: 100%;
         width: 25px;
@@ -154,10 +154,10 @@ width: 75px;
     display: none;
 }
 .section-two{
-    width: 85%;
-    margin-left:auto;
-    margin-right: auto;
-    padding: 10px;
+    width: 85vw;
+    /* margin-left:auto;
+    margin-right: auto; */
+    padding: 6px;
   
 }
 .section-two h2{
@@ -182,9 +182,9 @@ width: 75px;
 }
 }
     @media screen and (max-width: 411px) {
-        /* main{
-            padding: 30px;
-        } */
+        main{
+           width: 100%;
+        }
         .content h1 img{
             max-width: 100%;
             width: 25px;
@@ -196,10 +196,10 @@ width: 75px;
         display: none;
     }
     .section-two{
-        width: 85%;
-        margin-left:auto;
-        margin-right: auto;
-        padding: 10px;
+        width: 85vw;
+        /* margin-left:auto;
+        margin-right: auto; */
+        padding: 6px;
        
     }
     .section-two h2{
